@@ -1,10 +1,16 @@
-# 🏨 Exploratory Data Analysis on Las Vegas Strip Hotels
+<img width="1052" height="465" alt="image" src="https://github.com/user-attachments/assets/f6cfed6b-a066-41b5-b44f-93ce66528f7c" />
+
+
+
+
+
+#  Exploratory Data Analysis on Las Vegas Strip Hotels
 
 A basic exploratory data analysis (EDA) project performed on the Las Vegas TripAdvisor Hotel Reviews dataset. The goal of this project is to inspect, clean, and uncover insights from user reviews on hotels located on the Las Vegas Strip, using Python and popular data analysis libraries.
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 
 - [Project Overview](#project-overview)
 - [Dataset Information](#dataset-information)
@@ -23,13 +29,13 @@ A basic exploratory data analysis (EDA) project performed on the Las Vegas TripA
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 This project demonstrates the application of exploratory data analysis to a real-world hotel review dataset, helping stakeholders understand customer behavior, hotel ratings, travel trends, and more. It showcases proficiency in data cleaning, manipulation, and visualization using Python.
 
 ---
 
-## 📁 Dataset Information
+##  Dataset Information
 
 - **Name:** Las Vegas TripAdvisor Hotel Reviews
 - **Source:** TripAdvisor (via Kaggle)
@@ -45,7 +51,7 @@ This project demonstrates the application of exploratory data analysis to a real
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Clean and preprocess the dataset
 - Handle anomalies and missing values
@@ -55,7 +61,7 @@ This project demonstrates the application of exploratory data analysis to a real
 
 ---
 
-## 🛠 Tools and Technologies
+##  Tools and Technologies
 
 - **Language:** Python
 - **Libraries:** 
@@ -67,7 +73,7 @@ This project demonstrates the application of exploratory data analysis to a real
 
 ---
 
-## 🔍 EDA Process Breakdown
+##  EDA Process Breakdown
 
 ### 1. Data Loading & Initial Inspection
 - Load the CSV dataset using `pandas`
@@ -113,7 +119,7 @@ This project demonstrates the application of exploratory data analysis to a real
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 - **Top Reviewed Hotel:** Certain hotels received significantly higher reviews, indicating popularity.
 - **Dominant Traveler Type:** Couples are the most frequent travelers.
@@ -123,7 +129,7 @@ This project demonstrates the application of exploratory data analysis to a real
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 - Bar charts (Top countries, Traveler types)
 - Boxplots (Ratings by Hotel)
@@ -134,7 +140,7 @@ This project demonstrates the application of exploratory data analysis to a real
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project highlights how exploratory data analysis can uncover trends and help businesses in the hospitality industry improve customer experience. With better targeting of traveler types and deeper understanding of review trends, hotels can enhance their offerings and retention strategies.
 
